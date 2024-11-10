@@ -1,6 +1,6 @@
 # WhatsApp Chat Analyzer
 
-![Top Statistics](images/top_statistics.png)
+![Top Statistics](images/home.png)
 
 This is a **WhatsApp Chat Analyzer** built with **Streamlit**, which allows users to upload their WhatsApp chat data and perform various analyses on it. It generates insightful visualizations like word clouds, message timelines, activity maps, and more. The app also allows users to explore statistics such as the most active users, most used words, and emojis.
 
@@ -168,19 +168,19 @@ def create_wordcloud(selected_user, df):
 ## Screenshots
 
 ### 1. **Top Statistics**:
-![Top Statistics](images/top_statistics.png)
+![Top Statistics](images/top-statistics.png)
 
 ### 2. **Monthly Timeline**:
-![Monthly Timeline](images/monthly_timeline.png)
+![Monthly Timeline](images/monthly.png)
 
 ### 3. **Busiest Users**:
-![Busiest Users](images/busiest_users.png)
+![Busiest Users](images/busiest-users.png)
 
 ### 4. **Word Cloud**:
-![Word Cloud](images/word_cloud.png)
+![Word Cloud](images/wordcloud.png)
 
 ### 5. **Activity Heatmap**:
-![Activity Heatmap](images/activity_heatmap.png)
+![Activity Heatmap](images/heatmap.png)
 
 ## Contribution
 
