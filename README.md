@@ -15,6 +15,10 @@ This is a **WhatsApp Chat Analyzer** built with **Streamlit**, which allows user
 - **Most Used Words**: Shows the top 20 most frequent words used.
 - **Most Used Emojis**: Displays the top 20 most used emojis.
 
+## Users Guide
+
+<img src="images/users-guide.png" alt="Users Guide" style="width:50%; height:auto; display:flex ; align-item:center; justify-item: center">
+
 ## Requirements
 
 - **Python 3.6+**
